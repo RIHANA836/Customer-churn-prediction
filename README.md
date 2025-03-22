@@ -53,7 +53,6 @@ The **Random Forest model** performed better in terms of accuracy and recall, ma
 
 2.**Install Dependencies**
    Ensure you have Python 3.x installed, then run:
-   
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn
 
