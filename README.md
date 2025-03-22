@@ -44,6 +44,39 @@ The **Random Forest model** performed better in terms of accuracy and recall, ma
 - **Number of Products**: Customers with **only one product** tend to churn more, while those with multiple products are more likely to stay.  
 - **Credit Score & Balance**: While **credit score does not show a strong impact**, customers with a **zero balance** tend to churn more frequently.
 
+## Steps to Run the Project  
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/RIHANA836/Customer-Churn-Prediction.git
+   cd Customer-Churn-Prediction
+
+2.**Install Dependencies**
+Ensure you have Python 3.x installed, then run:
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn
+
+3.**Open Jupyter Notebook**
+Start Jupyter Notebook by running:
+```bash
+jupyter notebook
+
+4.**Open the Notebook File**
+Navigate to Customer_Churn_Prediction.ipynb in Jupyter Notebook.
+
+5.**Run the Notebook**
+
+Execute the cells sequentially to:
+
+Load the dataset
+
+Preprocess data
+
+Train models
+
+Evaluate performance
+
+
 ## **Contributors**  
 
 - **Rihana Iqbal** - [GitHub Profile](https://github.com/RIHANA836)  
