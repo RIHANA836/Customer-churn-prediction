@@ -47,4 +47,3 @@ The **Random Forest model** performed better in terms of accuracy and recall, ma
 ## **Contributors**  
 
 - **Rihana Iqbal** - [GitHub Profile](https://github.com/RIHANA836)  
-```  
