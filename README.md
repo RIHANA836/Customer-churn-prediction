@@ -52,27 +52,21 @@ The **Random Forest model** performed better in terms of accuracy and recall, ma
    cd Customer-Churn-Prediction
 
 2.**Install Dependencies**
-Ensure you have Python 3.x installed, then run:
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
+   Ensure you have Python 3.x installed, then run:
+   ```bash
+   pip install numpy pandas matplotlib seaborn scikit-learn
 
-3.**Open Jupyter Notebook**
-Start Jupyter Notebook by running:
-```bash
-jupyter notebook
+3. **Open Jupyter Notebook**
+   Start Jupyter Notebook by running:
+   ```bash
+   jupyter notebook
 
 4.**Open the Notebook File**
-Navigate to Customer_Churn_Prediction.ipynb in Jupyter Notebook.
+   Navigate to Customer_Churn_Prediction.ipynb in Jupyter Notebook.
 
 5.**Run the Notebook**
 
-Execute the cells sequentially to:
-
-Load the dataset
-
-Preprocess data
-
-Train models
+   Execute the cells sequentially
 
 Evaluate performance
 
